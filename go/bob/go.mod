@@ -1,3 +1,3 @@
-module github.com/jkulton/exercism/go/bob
+module bob
 
-go 1.16
+go 1.13
